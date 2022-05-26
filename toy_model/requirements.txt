@@ -48,7 +48,7 @@ snowballstemmer==1.2.1
 Sphinx==1.8.4
 sphinxcontrib-websupport==1.1.0
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==2.7.2
 termcolor==1.1.0
 torch==1.0.1.post2
 urllib3==1.24.1
