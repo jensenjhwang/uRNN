@@ -26,7 +26,7 @@ numpydoc==0.8.0
 packaging==19.0
 pandas==0.23.0
 pluggy==0.6.0
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.5.1
 py==1.8.0
 Pygments==2.3.1
